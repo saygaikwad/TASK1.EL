@@ -16,7 +16,7 @@ To clean the raw Netflix dataset by handling missing values, removing duplicates
 |------|-------------|
 | `netflix_titles.csv` | Original raw dataset (if added) |
 | `netflix_cleaned.csv` | Final cleaned dataset |
-| `cleaning_script.ipynb` | Jupyter Notebook containing full cleaning steps |
+| `TASK1.ipynb` | Jupyter Notebook containing full cleaning steps |
 | `README.md` | Documentation of the project |
 
 ---
