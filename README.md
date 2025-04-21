@@ -35,18 +35,19 @@ To clean the raw Netflix dataset by handling missing values, removing duplicates
 
 ## Usage
 
-1. Clone the repository:
+1. Download or clone the repository:
    ```bash
    git clone https://github.com/your-username/netflix-data-cleaning.git
    cd netflix-data-cleaning
    ```
 
-2. Open the Jupyter Notebook:
-   ```bash
-   jupyter notebook cleaning_script.ipynb
-   ```
+2. Open the dataset `netflix_cleaned.csv` in your preferred tool:
+   - Excel
+   - Python (Pandas)
+   - Tableau or Power BI
+   - Any other data analysis software
 
-3. Run the notebook cells to review or reprocess the dataset.
+3. You can use the cleaned dataset directly for visualization or analysis.
 
 ---
 
